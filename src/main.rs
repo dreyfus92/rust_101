@@ -6,7 +6,9 @@
 // mod tuples;
 // mod arrays;
 // mod vectors;
-mod conditionals;
+// mod conditionals;
+// mod loops;
+mod functions;
 fn main() {
-    conditionals::run();
+    functions::run();
 }
