@@ -8,7 +8,11 @@
 // mod vectors;
 // mod conditionals;
 // mod loops;
-mod functions;
+// mod functions;
+// mod pointers_ref;
+// mod structs;
+// mod enums;
+mod cli;
 fn main() {
-    functions::run();
+    cli::run();
 }
